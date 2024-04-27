@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+.header {
+    color: darkblue;
+    border-bottom: 1px solid darkblue;
+}
+
+.container {
+    background-color: lightgray;
+    border: 5px solid purple;
+    width: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container_skills {
+    background-color: lightgray;
+    border: 5px solid darkcyan;
+    width: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

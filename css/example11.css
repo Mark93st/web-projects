@@ -1,0 +1,23 @@
+/* Cascade rules */
+
+/* p {
+    color: red;
+}
+
+p {
+    color: blue;
+} */
+
+/* Specificity tules */
+
+.cf-text {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+#cfText {
+    color: green!important;
+}

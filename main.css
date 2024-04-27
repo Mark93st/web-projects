@@ -1,0 +1,20 @@
+body {
+    background-color: grey;
+}
+
+p {
+    color: red;
+    background-color: black;
+}
+
+/* #auebText {
+    color: green;
+} */
+
+.aueb-text {
+    color: green;
+}
+
+.uoa-text {
+    color: rgba(255, 251, 0, 0.527)
+}
